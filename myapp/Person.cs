@@ -8,5 +8,8 @@ namespace myapp
             int Weight = weight;
             float BMI = bmi;
         }
+        public Person (){
+            
+        }
     }
 }
