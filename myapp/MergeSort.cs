@@ -1,7 +1,0 @@
-namespace myapp
-{
-    class MergeSort
-    {
-        
-    }
-}
