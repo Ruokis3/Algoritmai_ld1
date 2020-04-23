@@ -34,3 +34,16 @@ C:\Users\Simonas\Desktop\Algoritmai_ld1\Algoritmai_ld1\myapp\obj\Debug\netcoreap
 C:\Users\Simonas\Desktop\Algoritmai_ld1\Algoritmai_ld1\myapp\obj\Debug\netcoreapp3.1\myapp.dll
 C:\Users\Simonas\Desktop\Algoritmai_ld1\Algoritmai_ld1\myapp\obj\Debug\netcoreapp3.1\myapp.pdb
 C:\Users\Simonas\Desktop\Algoritmai_ld1\Algoritmai_ld1\myapp\obj\Debug\netcoreapp3.1\myapp.genruntimeconfig.cache
+C:\Users\Simonas\Desktop\Algoritmai_ld1\myapp\bin\Debug\netcoreapp3.1\myapp.exe
+C:\Users\Simonas\Desktop\Algoritmai_ld1\myapp\bin\Debug\netcoreapp3.1\myapp.deps.json
+C:\Users\Simonas\Desktop\Algoritmai_ld1\myapp\bin\Debug\netcoreapp3.1\myapp.runtimeconfig.json
+C:\Users\Simonas\Desktop\Algoritmai_ld1\myapp\bin\Debug\netcoreapp3.1\myapp.runtimeconfig.dev.json
+C:\Users\Simonas\Desktop\Algoritmai_ld1\myapp\bin\Debug\netcoreapp3.1\myapp.dll
+C:\Users\Simonas\Desktop\Algoritmai_ld1\myapp\bin\Debug\netcoreapp3.1\myapp.pdb
+C:\Users\Simonas\Desktop\Algoritmai_ld1\myapp\obj\Debug\netcoreapp3.1\myapp.csprojAssemblyReference.cache
+C:\Users\Simonas\Desktop\Algoritmai_ld1\myapp\obj\Debug\netcoreapp3.1\myapp.csproj.CoreCompileInputs.cache
+C:\Users\Simonas\Desktop\Algoritmai_ld1\myapp\obj\Debug\netcoreapp3.1\myapp.AssemblyInfoInputs.cache
+C:\Users\Simonas\Desktop\Algoritmai_ld1\myapp\obj\Debug\netcoreapp3.1\myapp.AssemblyInfo.cs
+C:\Users\Simonas\Desktop\Algoritmai_ld1\myapp\obj\Debug\netcoreapp3.1\myapp.dll
+C:\Users\Simonas\Desktop\Algoritmai_ld1\myapp\obj\Debug\netcoreapp3.1\myapp.pdb
+C:\Users\Simonas\Desktop\Algoritmai_ld1\myapp\obj\Debug\netcoreapp3.1\myapp.genruntimeconfig.cache

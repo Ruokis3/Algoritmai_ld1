@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Simonas\\Desktop\\Algoritmai_ld1\\Algoritmai_ld1\\myapp\\myapp.csproj",
+      "projectUniqueName": "C:\\Users\\Simonas\\Desktop\\Algoritmai_ld1\\myapp\\myapp.csproj",
       "projectName": "myapp",
-      "projectPath": "C:\\Users\\Simonas\\Desktop\\Algoritmai_ld1\\Algoritmai_ld1\\myapp\\myapp.csproj",
+      "projectPath": "C:\\Users\\Simonas\\Desktop\\Algoritmai_ld1\\myapp\\myapp.csproj",
       "packagesPath": "C:\\Users\\Simonas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Simonas\\Desktop\\Algoritmai_ld1\\Algoritmai_ld1\\myapp\\obj\\",
+      "outputPath": "C:\\Users\\Simonas\\Desktop\\Algoritmai_ld1\\myapp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Simonas\\AppData\\Roaming\\NuGet\\NuGet.Config"

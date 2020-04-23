@@ -12,8 +12,10 @@ namespace myapp
         }
     public class MergeSortList
     {
+        public long listOperations = 0;
         node sortedMerge(node a, node b) 
         { 
+            listOperations++;
             node result = null; 
             /* Base cases */
             if (a == null) 
@@ -35,6 +37,7 @@ namespace myapp
     
         public node mergeSort(node h) 
         { 
+            listOperations++;
             // Base case : if head is null 
             if (h == null || h.next == null) { 
                 return h; 
@@ -62,6 +65,7 @@ namespace myapp
         // middle of the linked list 
         node getMiddle(node h) 
         { 
+            listOperations++;
             // Base case 
             if (h == null) 
                 return h; 
@@ -71,6 +75,7 @@ namespace myapp
             // Move fastptr by two and slow ptr by one 
             // Finally slowptr will point to middle node 
             while (fastptr != null) { 
+                listOperations++;
                 fastptr = fastptr.next; 
                 if (fastptr != null) { 
                     slowptr = slowptr.next; 
