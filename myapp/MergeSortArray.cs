@@ -38,9 +38,9 @@ namespace myapp
                     arrOperations++;
                 }
             
-                i = 0; // Initial index of first subarray 
-                j = 0; // Initial index of second subarray 
-                k = l; // Initial index of merged subarray 
+                i = 0;
+                j = 0;
+                k = l; 
                 while (i < n1 && j < n2) 
                 { 
                     arrOperations++;

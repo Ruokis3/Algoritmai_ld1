@@ -49,7 +49,6 @@ namespace myapp
             stopWatch.Stop();
             PrintArray(people, peopleSize);
             Console.WriteLine(stopWatch.Elapsed.ToString());
-            Console.WriteLine(merger.arrOperations);
         }
         
         public static void ReadToArray(Person [] people, ref int peopleSize, int n)
@@ -89,7 +88,6 @@ namespace myapp
                 temp = temp.next;
             }
             Console.WriteLine(stopWatch.Elapsed.ToString());
-            Console.WriteLine(a.listOperations);
         }
 
         public static node ReadToLinkedList (int n)
