@@ -9,7 +9,7 @@ namespace myapp
 {
     class Program
     {
-        static string path = @"../data/data1.txt";
+        static string path = @"../data/data.txt";
         const int SIZE = 100000;
         static void Main(string[] args)
         {
